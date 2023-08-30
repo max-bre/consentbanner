@@ -15,5 +15,5 @@
 homepage: "https://www.consentbanner.com"
 documentation: "https://www.consentbanner.com/setup-gtm-consent-banner"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: f9d4c300f4188b5561b5c7bbf240ba5ab6d6af33
     changeNotes: Initial Version
